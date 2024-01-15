@@ -70,5 +70,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/menglingling/menglingling.github.io.git
+  repo: https://github.com/menglingling/hexo-blog.git
   branch: master
